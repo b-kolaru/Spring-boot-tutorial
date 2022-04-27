@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring-boot-tutorial/Spring-boot-tutorial.iml" filepath="$PROJECT_DIR$/Spring-boot-tutorial/Spring-boot-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/room-web-app/room-web-app.iml" filepath="$PROJECT_DIR$/room-web-app/room-web-app.iml" />
     </modules>
   </component>
 </project>
